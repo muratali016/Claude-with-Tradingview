@@ -121,8 +121,8 @@ Two layers:
 
 ```
 trading-copilot/
-├── trading_copilot_cdp.py    # Main app (CDP mode, recommended)
-├── trading_copilot.py        # Alternate: embedded Chromium via QWebEngineView
+├── trading_cdp.py    # Main app (CDP mode, recommended)
+├── main.py        # Alternate: embedded Chromium via QWebEngineView
 │                             #   (Google OAuth blocked in embedded browsers)
 ├── launch_chrome.bat         # Windows launcher for Chrome on port 9222
 ├── config.py                 # API key + model choice (gitignored)
