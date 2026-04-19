@@ -1,5 +1,7 @@
 # Trading Copilot
 
+[![Watch the video](https://img.youtube.com/vi/8Up4Mlo-eJs/hqdefault.jpg)](https://www.youtube.com/watch?v=8Up4Mlo-eJs)
+
 A split-screen desktop companion for TradingView. On the left, a chat panel powered by Google's Gemini / Gemma models. On the right, your live TradingView chart in a real Chrome window. Ask questions, attach the current chart as a screenshot, and the copilot remembers your session across restarts.
 
 Built for discretionary futures traders who want a second set of eyes on their setups without context-switching to a separate chat tab.
